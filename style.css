@@ -9,11 +9,18 @@
 	font-size:30px;
 }
 
+
+
+
 .accordion-container {
 	width: 100%;
-	margin: 0 0 20px;
+	margin: 0 0 21px;
 	clear:both;
 }
+
+
+
+
 
 .accordion-titulo {
 	position: relative;
